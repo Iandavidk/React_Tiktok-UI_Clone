@@ -13,3 +13,4 @@ This project is an attempt to build the video interface of tiktok and clone it w
 1. CSS
 1. ReactJs
 ## Project Image
+![Tiktok-Ui](https://user-images.githubusercontent.com/93794655/205225486-51d01467-17ac-45dd-a12d-3796bfc423a7.png)
